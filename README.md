@@ -11,7 +11,7 @@ ub Thumb 1.0.071213 (2007): a PHP script that makes thumbnails with GD on the fl
 ## How it was built
 
 There was no version control then: in 2026 I turned the archived files into a commit, with their date kept. The last
-commit before this README sets LF line endings and indents with spaces.
+commit before this README sets LF line endings and indents with spaces (not in `license`).
 
 ## Licence
 
